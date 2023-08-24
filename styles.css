@@ -55,9 +55,27 @@ span{
 
 /* Fin index */
 
+/* Inicio pagina ¿Que Hacemos? */
+
+.qh-p{
+    padding: 5px;
+    margin: 10px;
+}
+
+/* Fin pagina ¿Que Hacemos? */
+
+/* Inicio pagina Historia */
+
+.h-p{
+    padding: 5px;
+    margin: 10px;
+}
+
+/* Fin pagina Historia */
+
 /* inicio pagina contacto */
 
-/* inicio estilos formulario */
+    /* inicio estilos formulario */
 
 form{
     width: 100%;
@@ -112,9 +130,9 @@ form textarea::placeholder{
     margin: 5px;
 }
 
-/* fin estilos formulario */
+    /* fin estilos formulario */
 
-/* inicio estilos ubicacion */
+    /* inicio estilos ubicacion */
 
 #ubicacion{
     width: 100%;
@@ -149,7 +167,7 @@ form textarea::placeholder{
     background: var(--color-secundario-transp);
 }
 
-/* fin estilos ubicacion */
+    /* fin estilos ubicacion */
 
 /* fin pagina contacto */
 
